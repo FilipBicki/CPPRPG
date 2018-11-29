@@ -2,7 +2,7 @@
 #define PLAYER_H
 #include <string>
 #include <list>
-#include "room.cpp"
+//#include "room.cpp"
 
 using std::string;
 using std::list;
@@ -11,7 +11,7 @@ class Player
 {
     private:
         string name;
-        Room location;
+        //Room location;
         list<string> inventory;
     public:
         Player();

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include "player.h"
-#include "room.cpp"
+//#include "room.cpp"
 #include <list>
 
 using namespace std;
